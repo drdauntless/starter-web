@@ -15,3 +15,4 @@ Please fork this repo and then issue pull request
 2014 git.training
 
 Adding a line of rebasing example
+more changes from myfeature branch
