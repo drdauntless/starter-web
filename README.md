@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## How to contribut
+
+Please fork this repo and then issue pull request
+
 ### Copyright
 
 2014 git.training
