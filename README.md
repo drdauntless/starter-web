@@ -16,3 +16,4 @@ Please fork this repo and then issue pull request
 
 Adding a line of rebasing example
 more changes from myfeature branch
+All rights reserved.
